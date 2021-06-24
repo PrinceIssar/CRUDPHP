@@ -1,0 +1,59 @@
+body{
+    overflow: auto;
+}
+.container{
+    text-align: center;
+}
+
+h3{
+    color: aqua;
+    font-size: 30px;
+    margin-top: 30px;
+}
+#header{
+    height: 15%;
+    width: 100%;
+    top: 1%;
+    background-color: #0a0907;
+    position: fixed;
+    color: #e0bebe;
+    text-align: center;
+}
+
+#left_side{
+    height: 75%;
+    width: 15%;
+    top: 10%;
+    position: fixed;
+}
+
+#right_side{
+    height: 75%;
+    width: 80%;
+    background-color: whitesmoke;
+    position: fixed;
+    left: 17%;
+    top: 21%;
+    color: indianred;
+    border: solid 1px black;
+}
+
+#top_span{
+    top: 15%;
+    width: 80%;
+    left: 17%;
+    position: fixed;
+}
+#teacher_table{
+    border-collapse: collapse;
+    border: 1px solid #553b3b;
+}
+
+#td{
+    border: 1px solid #553b3b;
+    padding-left: 2px;
+    text-align: left;
+    width: 200px;
+
+
+}
